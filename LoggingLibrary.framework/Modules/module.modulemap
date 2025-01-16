@@ -1,0 +1,6 @@
+framework module LoggingLibrary {
+  umbrella header "LoggingLibrary.h"
+  export *
+
+  module * { export * }
+}
